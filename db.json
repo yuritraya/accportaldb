@@ -1,0 +1,89 @@
+{
+    "users":[
+        {
+            "id":"1",
+            "firstName":"Administrator",
+            "lastName":"System",
+            "email":"admin.nt@gmail.com",
+            "username":"admin",
+            "password":"admin123",
+            "type":1,
+            "age": 50,
+            "companyId":1
+        },
+        {
+            "id":"2",
+            "firstName":"Malou",
+            "lastName":"Tizon",
+            "email":"malougaling.mp@gmail.com",
+            "username":"malou",
+            "password":"12345",
+            "type":2,
+            "age": 26,
+            "companyId":2
+        },
+        {
+            "id":"3",
+            "firstName":"Matthew",
+            "lastName":"Tizon",
+            "email":"matthew.tizon@gmail.com",
+            "username":"matthew",
+            "password":"12345",
+            "type":2,
+            "age": 24,
+            "companyId":1
+        },
+        {
+            "id":"4",
+            "firstName":"Matt",
+            "lastName":"Tizon",
+            "email":"mattizon.mt@gmail.com",
+            "username":"matty",
+            "password":"12345",
+            "type":2,
+            "age": 24,
+            "companyId":1
+        }
+    ],
+    "companies":[
+        {
+            "id":"1",
+            "name":"Nelsoft Systems Inc.",
+            "description":"No.1 POS Company in the Philippines"
+        },
+        {
+            "id":"2",
+            "name":"GadgetWorks Corp.",
+            "description":"No.1 IT products reseller in the Philippines"
+        }
+    ],
+    "news":[
+        {
+            "id":"1",
+            "title":"Headlines",
+            "url":"http://google.com"
+        },
+        {
+            "id":"2",
+            "title":"Weather",
+            "url":"http://weather.google.com"
+        }
+    ],
+    "upcomingevents":[
+        {
+            "id":"1",
+            "title":"Battle of the Bands",
+            "where":"Auditorium"
+        },
+        {
+            "id":"2",
+            "title":"Medical Exams",
+            "where":"School Clinic"
+        },
+        {
+            "id":"3",
+            "title":"Foundation Day",
+            "where":"School Gym"
+        }
+    ]
+}
