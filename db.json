@@ -14,11 +14,11 @@
         },
         {
             "id":"2",
-            "firstName":"Malou",
-            "lastName":"Tizon",
-            "email":"malougaling.mp@gmail.com",
+            "firstName":"Kerwin",
+            "lastName":"Jaravata",
+            "email":"test@gmail.com",
             "studentID":"54321233",
-            "username":"malou",
+            "username":"kerwin",
             "password":"12345",
             "type":2,
             "age": 26,
@@ -26,11 +26,11 @@
         },
         {
             "id":"3",
-            "firstName":"Matthew",
-            "lastName":"Tizon",
-            "email":"matthew.tizon@gmail.com",
+            "firstName":"Juan",
+            "lastName":"Dela Cruz",
+            "email":"juan.delacruz@gmail.com",
             "studentID":"1234124",
-            "username":"matthew",
+            "username":"juan",
             "password":"12345",
             "type":2,
             "age": 24,
@@ -38,12 +38,12 @@
         },
         {
             "id":"4",
-            "firstName":"Matt",
-            "lastName":"Tizon",
-            "email":"mattizon.mt@gmail.com",
+            "firstName":"Jeric",
+            "lastName":"Estanio",
+            "email":"jeric@gmail.com",
             "studentID":"34234277",
-            "username":"matty",
-            "password":"12345",
+            "username":"jeric",
+            "password":"123456",
             "type":2,
             "age": 24,
             "companyId":1
@@ -52,13 +52,13 @@
     "companies":[
         {
             "id":"1",
-            "name":"Nelsoft Systems Inc.",
-            "description":"No.1 POS Company in the Philippines"
+            "name":"Access College Recto",
+            "description":"Main Branch"
         },
         {
             "id":"2",
-            "name":"GadgetWorks Corp.",
-            "description":"No.1 IT products reseller in the Philippines"
+            "name":"Access College Cubao",
+            "description":"Sub Branch"
         }
     ],
     "news":[
@@ -81,12 +81,12 @@
         },
         {
             "id":"2",
-            "title":"Medical Exams",
+            "title":"Sports Fest",
             "where":"School Clinic"
         },
         {
             "id":"3",
-            "title":"Foundation Day",
+            "title":"Stage Play",
             "where":"School Gym"
         }
     ]
