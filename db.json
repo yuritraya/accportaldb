@@ -77,17 +77,17 @@
         {
             "id":"1",
             "title":"Battle of the Bands",
-            "where":"Auditorium"
+            "where":"araneta"
         },
         {
             "id":"2",
             "title":"Sports Fest",
-            "where":"School Clinic"
+            "where":"araneta"
         },
         {
             "id":"3",
             "title":"Stage Play",
-            "where":"School Gym"
+            "where":"araneta"
         }
     ]
 }
